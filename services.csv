@@ -1,0 +1,4 @@
+service_name,host,port
+auth_devs,pi7.local,5001
+network_scan,pi7.local,5002
+kasa_project,pi7.local,5003
